@@ -1,0 +1,15 @@
+setState 142 358 67b
+solve A-star h1
+printState
+setState 142 358 67b
+solve A-star h2
+printState
+setState 312 6b5 748
+solve A-star h2
+printState
+randomizeState 10
+solve A-star h2
+printState
+randomizeState 478
+solve A-star h2
+printState

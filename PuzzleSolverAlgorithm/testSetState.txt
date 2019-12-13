@@ -1,0 +1,4 @@
+setState b12 345 678
+printState
+setState 287 b54 136
+printState

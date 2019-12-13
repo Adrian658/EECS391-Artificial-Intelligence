@@ -1,0 +1,5 @@
+printState
+randomizeState 2
+printState
+randomizeState 100
+printState

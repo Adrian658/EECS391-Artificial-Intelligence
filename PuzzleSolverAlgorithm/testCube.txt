@@ -1,0 +1,10 @@
+printState
+move left towards
+printState
+move bottom right
+printState
+solve A-star cube
+printState
+randomizeState 3
+printState
+solve beam 10

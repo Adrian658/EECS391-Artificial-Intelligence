@@ -1,0 +1,10 @@
+setState b12 345 678
+printState
+move right
+printState
+move down
+printState
+move left
+printState
+move left
+printState

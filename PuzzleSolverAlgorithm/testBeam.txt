@@ -1,0 +1,20 @@
+setState 142 358 67b
+solve beam 10
+printState
+setState 142 358 67b
+solve beam 1
+printState
+setState 312 6b5 748
+solve beam 10
+printState
+randomizeState 10
+solve beam 10
+printState
+randomizeState 478
+printState
+solve beam 10
+printState
+randomizeState 478
+printState
+solve beam 200
+printState
